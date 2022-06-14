@@ -1,0 +1,327 @@
+Gato@LAPTOP-RQLRQ569 MINGW64 /e/Backend Python desde 0 proyecto real Apis JWT SQL GIT/git
+$ ls
+game.py  main.py  models/  resources/  script.py
+
+Gato@LAPTOP-RQLRQ569 MINGW64 /e/Backend Python desde 0 proyecto real Apis JWT SQL GIT/git
+$ scipt.py
+bash: scipt.py: command not found
+
+Gato@LAPTOP-RQLRQ569 MINGW64 /e/Backend Python desde 0 proyecto real Apis JWT SQL GIT/git
+$ ls scipt.py
+ls: cannot access 'scipt.py': No such file or directory
+
+Gato@LAPTOP-RQLRQ569 MINGW64 /e/Backend Python desde 0 proyecto real Apis JWT SQL GIT/git
+$ cat scipt.py
+cat: scipt.py: No such file or directory
+
+Gato@LAPTOP-RQLRQ569 MINGW64 /e/Backend Python desde 0 proyecto real Apis JWT SQL GIT/git
+$ ls
+game.py  main.py  models/  resources/  script.py
+
+Gato@LAPTOP-RQLRQ569 MINGW64 /e/Backend Python desde 0 proyecto real Apis JWT SQL GIT/git
+$ script.py
+bash: $'\302\203\302\226\302\226\302\226script.py': command not found
+
+Gato@LAPTOP-RQLRQ569 MINGW64 /e/Backend Python desde 0 proyecto real Apis JWT SQL GIT/git
+$ cd ..
+
+Gato@LAPTOP-RQLRQ569 MINGW64 /e/Backend Python desde 0 proyecto real Apis JWT SQL GIT
+$ ls
+DB.Browser.for.SQLite-3.12.2-win64.msi  bases-python-master.zip
+Ejemplos_SQL/                           bases-sql-master/
+Git-2.35.1.2-64-bit.exe*                bases-sql-master.zip
+Insomnia.Core-2022.2.1.exe*             git/
+VSCodeUserSetup-x64-1.65.2.exe*         git-bases-master.zip
+bases-python-master/
+
+Gato@LAPTOP-RQLRQ569 MINGW64 /e/Backend Python desde 0 proyecto real Apis JWT SQL GIT
+$ cd git/
+
+Gato@LAPTOP-RQLRQ569 MINGW64 /e/Backend Python desde 0 proyecto real Apis JWT SQL GIT/git
+$ ls
+game.py  main.py  models/  resources/  script.py
+
+Gato@LAPTOP-RQLRQ569 MINGW64 /e/Backend Python desde 0 proyecto real Apis JWT SQL GIT/git
+$ sript.py
+bash: sript.py: command not found
+
+Gato@LAPTOP-RQLRQ569 MINGW64 /e/Backend Python desde 0 proyecto real Apis JWT SQL GIT/git
+$ cat scipt.py
+cat: scipt.py: No such file or directory
+
+Gato@LAPTOP-RQLRQ569 MINGW64 /e/Backend Python desde 0 proyecto real Apis JWT SQL GIT/git
+$ cat scipt.py
+cat: scipt.py: No such file or directory
+
+Gato@LAPTOP-RQLRQ569 MINGW64 /e/Backend Python desde 0 proyecto real Apis JWT SQL GIT/git
+$ git init
+Initialized empty Git repository in E:/Backend Python desde 0 proyecto real Apis JWT SQL GIT/git/.git/
+
+Gato@LAPTOP-RQLRQ569 MINGW64 /e/Backend Python desde 0 proyecto real Apis JWT SQL GIT/git (master)
+$ git init
+Reinitialized existing Git repository in E:/Backend Python desde 0 proyecto real Apis JWT SQL GIT/git/.git/
+
+Gato@LAPTOP-RQLRQ569 MINGW64 /e/Backend Python desde 0 proyecto real Apis JWT SQL GIT/git (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        game.py
+        main.py
+        models/
+        resources/
+        script.py
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+Gato@LAPTOP-RQLRQ569 MINGW64 /e/Backend Python desde 0 proyecto real Apis JWT SQL GIT/git (master)
+$ git add game.py
+
+Gato@LAPTOP-RQLRQ569 MINGW64 /e/Backend Python desde 0 proyecto real Apis JWT SQL GIT/git (master)
+$ ^C
+
+Gato@LAPTOP-RQLRQ569 MINGW64 /e/Backend Python desde 0 proyecto real Apis JWT SQL GIT/git (master)
+$ git add ^C
+
+Gato@LAPTOP-RQLRQ569 MINGW64 /e/Backend Python desde 0 proyecto real Apis JWT SQL GIT/git (master)
+$ ^C
+
+
+
+Gato@LAPTOP-RQLRQ569 MINGW64 /e/Backend Python desde 0 proyecto real Apis JWT SQL GIT/git (master)
+$ git add main.py
+warning: LF will be replaced by CRLF in main.py.
+The file will have its original line endings in your working directory
+
+Gato@LAPTOP-RQLRQ569 MINGW64 /e/Backend Python desde 0 proyecto real Apis JWT SQL GIT/git (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   game.py
+        new file:   main.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        models/
+        resources/
+        script.py
+
+
+Gato@LAPTOP-RQLRQ569 MINGW64 /e/Backend Python desde 0 proyecto real Apis JWT SQL GIT/git (master)
+$ ^C
+
+Gato@LAPTOP-RQLRQ569 MINGW64 /e/Backend Python desde 0 proyecto real Apis JWT SQL GIT/git (master)
+git add models/
+warning: LF will be replaced by CRLF in models/models.py.
+The file will have its original line endings in your working directory
+
+Gato@LAPTOP-RQLRQ569 MINGW64 /e/Backend Python desde 0 proyecto real Apis JWT SQL GIT/git (master)
+$ git add resources/
+
+Gato@LAPTOP-RQLRQ569 MINGW64 /e/Backend Python desde 0 proyecto real Apis JWT SQL GIT/git (master)
+$git add script.py
+warning: LF will be replaced by CRLF in script.py.
+The file will have its original line endings in your working directory
+
+Gato@LAPTOP-RQLRQ569 MINGW64 /e/Backend Python desde 0 proyecto real Apis JWT SQL GIT/git (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   game.py
+        new file:   main.py
+        new file:   models/models.py
+        new file:   resources/recursos.py
+        new file:   script.py
+
+
+Gato@LAPTOP-RQLRQ569 MINGW64 /e/Backend Python desde 0 proyecto real Apis JWT SQL GIT/git (master)
+$ git commit -m "Primer commit"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'Gato@LAPTOP-RQLRQ569.(none)')
+
+Gato@LAPTOP-RQLRQ569 MINGW64 /e/Backend Python desde 0 proyecto real Apis JWT SQL GIT/git (master)
+$   git config --global user.email "asta_rgcat@hotmail.com"
+bash: $'\302\203': command not found
+
+Gato@LAPTOP-RQLRQ569 MINGW64 /e/Backend Python desde 0 proyecto real Apis JWT SQL GIT/git (master)
+$ git config --global user.email "asta_rgcat@hotmail.com"
+
+Gato@LAPTOP-RQLRQ569 MINGW64 /e/Backend Python desde 0 proyecto real Apis JWT SQL GIT/git (master)
+$ git config --global user.name "Ricardo"
+
+Gato@LAPTOP-RQLRQ569 MINGW64 /e/Backend Python desde 0 proyecto real Apis JWT SQL GIT/git (master)
+$ git commit -m "Primer commit"
+[master (root-commit) 0b4228a] Primer commit
+ 5 files changed, 13 insertions(+)
+ create mode 100644 game.py
+ create mode 100644 main.py
+ create mode 100644 models/models.py
+ create mode 100644 resources/recursos.py
+ create mode 100644 script.py
+
+Gato@LAPTOP-RQLRQ569 MINGW64 /e/Backend Python desde 0 proyecto real Apis JWT SQL GIT/git (master)
+$ git log
+commit 0b4228ac2ffe9a1abe3e9fcdb9455abaac5793c2 (HEAD -> master)
+Author: Ricardo <asta_rgcat@hotmail.com>
+Date:   Tue Jun 14 01:29:26 2022 -0500
+
+    Primer commit
+
+Gato@LAPTOP-RQLRQ569 MINGW64 /e/Backend Python desde 0 proyecto real Apis JWT SQL GIT/git (master)
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+Gato@LAPTOP-RQLRQ569 MINGW64 /e/Backend Python desde 0 proyecto real Apis JWT SQL GIT/git (master)
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   models/models.py
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+Gato@LAPTOP-RQLRQ569 MINGW64 /e/Backend Python desde 0 proyecto real Apis JWT SQL GIT/git (master)
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   models/models.py
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+Gato@LAPTOP-RQLRQ569 MINGW64 /e/Backend Python desde 0 proyecto real Apis JWT SQL GIT/git (master)
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   models/models.py
+        modified:   resources/recursos.py
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+Gato@LAPTOP-RQLRQ569 MINGW64 /e/Backend Python desde 0 proyecto real Apis JWT SQL GIT/git (master)
+$ git add .
+warning: LF will be replaced by CRLF in models/models.py.
+The file will have its original line endings in your working directory
+
+Gato@LAPTOP-RQLRQ569 MINGW64 /e/Backend Python desde 0 proyecto real Apis JWT SQL GIT/git (master)
+$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   models/models.py
+        modified:   resources/recursos.py
+
+
+Gato@LAPTOP-RQLRQ569 MINGW64 /e/Backend Python desde 0 proyecto real Apis JWT SQL GIT/git (master)
+$ git commit -m "Cree dos carpetas nuevas modelos y recursos"
+[master 5e94a94] Cree dos carpetas nuevas modelos y recursos
+ 2 files changed, 3 insertions(+), 2 deletions(-)
+
+Gato@LAPTOP-RQLRQ569 MINGW64 /e/Backend Python desde 0 proyecto real Apis JWT SQL GIT/git (master)
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+Gato@LAPTOP-RQLRQ569 MINGW64 /e/Backend Python desde 0 proyecto real Apis JWT SQL GIT/git (master)
+$ git log
+commit 5e94a94f0419ef24143eed5b2809ab5b55ddbfae (HEAD -> master)
+Author: Ricardo <asta_rgcat@hotmail.com>
+Date:   Tue Jun 14 01:36:59 2022 -0500
+
+    Cree dos carpetas nuevas modelos y recursos
+
+commit 0b4228ac2ffe9a1abe3e9fcdb9455abaac5793c2
+Author: Ricardo <asta_rgcat@hotmail.com>
+Date:   Tue Jun 14 01:29:26 2022 -0500
+
+    Primer commit
+
+Gato@LAPTOP-RQLRQ569 MINGW64 /e/Backend Python desde 0 proyecto real Apis JWT SQL GIT/git (master)
+$ git tag segundo_commit
+
+Gato@LAPTOP-RQLRQ569 MINGW64 /e/Backend Python desde 0 proyecto real Apis JWT SQL GIT/git (master)
+$ git log
+commit 5e94a94f0419ef24143eed5b2809ab5b55ddbfae (HEAD -> master, tag: segundo_commit)
+Author: Ricardo <asta_rgcat@hotmail.com>
+Date:   Tue Jun 14 01:36:59 2022 -0500
+
+    Cree dos carpetas nuevas modelos y recursos
+
+commit 0b4228ac2ffe9a1abe3e9fcdb9455abaac5793c2
+Author: Ricardo <asta_rgcat@hotmail.com>
+Date:   Tue Jun 14 01:29:26 2022 -0500
+
+    Primer commit
+
+Gato@LAPTOP-RQLRQ569 MINGW64 /e/Backend Python desde 0 proyecto real Apis JWT SQL GIT/git (master)
+$ git checkout segundo_commit
+Note: switching to 'segundo_commit'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at 5e94a94 Cree dos carpetas nuevas modelos y recursos
+
+Gato@LAPTOP-RQLRQ569 MINGW64 /e/Backend Python desde 0 proyecto real Apis JWT SQL GIT/git ((segundo_commit))
+$ git log
+commit 5e94a94f0419ef24143eed5b2809ab5b55ddbfae (HEAD, tag: segundo_commit, master)
+Author: Ricardo <asta_rgcat@hotmail.com>
+Date:   Tue Jun 14 01:36:59 2022 -0500
+
+    Cree dos carpetas nuevas modelos y recursos
+
+commit 0b4228ac2ffe9a1abe3e9fcdb9455abaac5793c2
+Author: Ricardo <asta_rgcat@hotmail.com>
+Date:   Tue Jun 14 01:29:26 2022 -0500
+
+    Primer commit
+
+Gato@LAPTOP-RQLRQ569 MINGW64 /e/Backend Python desde 0 proyecto real Apis JWT SQL GIT/git ((segundo_commit))
+$ git checkout master
+Switched to branch 'master'
+
+Gato@LAPTOP-RQLRQ569 MINGW64 /e/Backend Python desde 0 proyecto real Apis JWT SQL GIT/git (master)
+$ ls -a
+./  ../  .git/  game.py  main.py  models/  resources/  script.py
+
+Gato@LAPTOP-RQLRQ569 MINGW64 /e/Backend Python desde 0 proyecto real Apis JWT SQL GIT/git (master)
+$ 
